@@ -1,0 +1,14 @@
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\bin\Debug\net8.0\LaçosExemplos.exe
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\bin\Debug\net8.0\LaçosExemplos.deps.json
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\bin\Debug\net8.0\LaçosExemplos.runtimeconfig.json
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\bin\Debug\net8.0\LaçosExemplos.dll
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\bin\Debug\net8.0\LaçosExemplos.pdb
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\obj\Debug\net8.0\LaçosExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\obj\Debug\net8.0\LaçosExemplos.AssemblyInfoInputs.cache
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\obj\Debug\net8.0\LaçosExemplos.AssemblyInfo.cs
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\obj\Debug\net8.0\LaçosExemplos.csproj.CoreCompileInputs.cache
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\obj\Debug\net8.0\LaçosExemplos.dll
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\obj\Debug\net8.0\refint\LaçosExemplos.dll
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\obj\Debug\net8.0\LaçosExemplos.pdb
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\obj\Debug\net8.0\LaçosExemplos.genruntimeconfig.cache
+C:\Users\55214382898\Desktop\aula-back-end\LaçosExemplos\obj\Debug\net8.0\ref\LaçosExemplos.dll

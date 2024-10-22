@@ -1,0 +1,14 @@
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\obj\Debug\net8.0\condicionais02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\obj\Debug\net8.0\condicionais02.AssemblyInfoInputs.cache
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\obj\Debug\net8.0\condicionais02.AssemblyInfo.cs
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\obj\Debug\net8.0\condicionais02.csproj.CoreCompileInputs.cache
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\bin\Debug\net8.0\condicionais02.exe
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\bin\Debug\net8.0\condicionais02.deps.json
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\bin\Debug\net8.0\condicionais02.runtimeconfig.json
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\bin\Debug\net8.0\condicionais02.dll
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\bin\Debug\net8.0\condicionais02.pdb
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\obj\Debug\net8.0\condicionais02.dll
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\obj\Debug\net8.0\refint\condicionais02.dll
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\obj\Debug\net8.0\condicionais02.pdb
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\obj\Debug\net8.0\condicionais02.genruntimeconfig.cache
+C:\Users\55214382898\Desktop\aula-back-end\condicionais02\obj\Debug\net8.0\ref\condicionais02.dll
