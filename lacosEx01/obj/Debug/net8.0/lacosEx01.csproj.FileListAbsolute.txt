@@ -12,3 +12,4 @@ C:\Users\55214382898\Desktop\aula-back-end\lacosEx01\obj\Debug\net8.0\refint\lac
 C:\Users\55214382898\Desktop\aula-back-end\lacosEx01\obj\Debug\net8.0\lacosEx01.pdb
 C:\Users\55214382898\Desktop\aula-back-end\lacosEx01\obj\Debug\net8.0\lacosEx01.genruntimeconfig.cache
 C:\Users\55214382898\Desktop\aula-back-end\lacosEx01\obj\Debug\net8.0\ref\lacosEx01.dll
+C:\Users\55214382898\Desktop\aula-back-end\lacosEx01\obj\Debug\net8.0\lacosEx01.sourcelink.json

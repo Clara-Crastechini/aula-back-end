@@ -8,27 +8,58 @@ Console.WriteLine(@"
 +--------------------------------------+
 ");
 
-//  criar um laco de 10 repeticoes 
-// dentro do laco perguntar o sexo da pessoa
-// se for homem contar na variavel homem, se for mulher contar na variavel mulher.
+
+Console.WriteLine($"Quantas pessoas tem na sua mesa?");
+int qntEntrevistados = int.Parse(Console.ReadLine()!);
 
 
 int homem = 0;
 int mulher = 0;
 string sexo;
+string esporte;
+int qntEsporte = 0;
+int qntNaoEsporte = 0;
 
-for (int i = 1; i <= 10; i++)
+Console.WriteLine(homem);
+Console.WriteLine(mulher);
+
+
+for (int i = 1; i <= qntEntrevistados; i++)
 {
-    Console.WriteLine($"Qual o seu sexo?");
+    Console.WriteLine($"Qual o seu sexo? f/m");
     sexo = Console.ReadLine();
 
-    if(sexo == "feminino"){
+    
+    if(sexo == "f"){
         mulher++;
     }else{
         homem++;
     }
-    
+
+
+    Console.WriteLine($"Você gosta de esporte?");
+    esporte = Console.ReadLine();
+
+
+    if(esporte == "sim"){
+        qntEsporte++;
+    }else {
+        qntNaoEsporte++;
+    }
 }
+
+
+float percentual = (100 / qntEntrevistados) * qntEsporte;
+
 
 Console.WriteLine($"Quantidade de homem: {homem}");
 Console.WriteLine($"Quantidade de mulher: {mulher}");
+Console.WriteLine($"Quantidade de entrevistados: {qntEntrevistados}");
+Console.WriteLine($"Quantidade de pessoas que gostam de esporte: {qntEsporte}");
+Console.WriteLine($"Quantidade de pessoas que não gostam de esporte: {qntNaoEsporte}");
+Console.WriteLine($"Percentual das pessoas que não gostam: {percentual}");
+
+
+
+
+

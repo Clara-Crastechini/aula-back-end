@@ -1,0 +1,15 @@
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\desafioLaco01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\desafioLaco01.AssemblyInfoInputs.cache
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\desafioLaco01.AssemblyInfo.cs
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\desafioLaco01.csproj.CoreCompileInputs.cache
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\desafioLaco01.sourcelink.json
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\bin\Debug\net8.0\desafioLaco01.exe
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\bin\Debug\net8.0\desafioLaco01.deps.json
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\bin\Debug\net8.0\desafioLaco01.runtimeconfig.json
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\bin\Debug\net8.0\desafioLaco01.dll
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\bin\Debug\net8.0\desafioLaco01.pdb
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\desafioLaco01.dll
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\refint\desafioLaco01.dll
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\desafioLaco01.pdb
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\desafioLaco01.genruntimeconfig.cache
+C:\Users\55214382898\Desktop\aula-back-end\desafioLaco01\obj\Debug\net8.0\ref\desafioLaco01.dll
