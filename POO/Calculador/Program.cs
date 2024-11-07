@@ -11,14 +11,36 @@ calculadora.numero1 = float.Parse(Console.ReadLine());
 Console.WriteLine($"Digite o segundo numero: ");
 calculadora.numero2 = float.Parse(Console.ReadLine());
 
-calculadora.Somar(0);
-Console.WriteLine();
+Console.Write($@" 
+1- Somar
+2- Subtrair
+3- Multiplicar
+4- Dividir 
+Digite uma operação: ");
+int operacao = int.Parse(Console.ReadLine());
 
-calculadora.Subtrair(0);
-Console.WriteLine();
 
-calculadora.Multiplicar(0);
-Console.WriteLine();
+if (operacao == 1)
+{ 
+    Console.Write("Resultado é: ");
+    calculadora.Somar(0);
+   
+} else if (operacao == 2)
+{
+    Console.Write("Resultado é: ");
+    calculadora.Subtrair(0);
+} else if (operacao == 3)
+{   
+    Console.Write("Resultado é: ");
+    calculadora.Multiplicar(0);
+} else
+{
+    Console.Write("Resultado é: ");
+    calculadora.Dividir(0);
+};
 
-calculadora.Dividir(0);
-Console.WriteLine();
+
+
+
+
+
