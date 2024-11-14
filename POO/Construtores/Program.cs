@@ -11,12 +11,18 @@ Console.Clear();
 // carro2.ExibirDados();
 
 
-// Aluno aluno1 = new Aluno("Clara", 16, "dev");
-// aluno1.ExibirDados();
+Aluno aluno1 = new Aluno("Clara", 123456);
+aluno1.ExibirDados();
+
+Aluno aluno2 = new Aluno("Juh", 987654);
+aluno2.ExibirDados();
+
+Aluno aluno3 = new Aluno("Rd", 951753);
+aluno3.ExibirDados();
 
 
 
-List<Jogo> EstoqueJogos = new List<Jogo>();
+// List<Jogo> EstoqueJogos = new List<Jogo>();
 // Jogo jogo1 = new Jogo("Minecraft", 2010, 40, "Aventura");
 // Jogo jogo2 = new Jogo("Call Of Duty", 2003, 60, "Ação");
 // Jogo jogo3 = new Jogo("Call Of Duty - Shadow of the Colossus", 2005, 62, "Ação");
@@ -39,32 +45,35 @@ List<Jogo> EstoqueJogos = new List<Jogo>();
 //     Console.WriteLine();
     
 // }
-int opcao;
-int JogosListas;
-do
-{   
-    Console.WriteLine(@$"
-    Menu de opções:
-    1) Cadastrar Jogo
-    2) Listar Jogos 
-    0) Sair");
-    Console.Write($"R:");
-    opcao = int.Parse(Console.ReadLine()!);
+
+
+
+
+// int opcao;
+// int JogosListas;
+// do
+// {   
+//     Console.WriteLine(@$"
+//     Menu de opções:
+//     1) Cadastrar Jogo
+//     2) Listar Jogos 
+//     0) Sair");
+//     Console.Write($"R:");
+//     opcao = int.Parse(Console.ReadLine()!);
     
 
-    if (opcao == 1)
-    {
-        Console.Write($"Nome: ");
-        string nome = Console.ReadLine();
-        Console.Write($"Lançamento: ");
-        int lancamento = int.Parse(Console.ReadLine()!);
-        Console.Write("Valor: ");
-        float valor = float.Parse(Console.ReadLine()!);
-        Console.Write($"Gênero: ");
-        string genero = Console.ReadLine();
-        ;
-    }
-    else if (opcao == 2){
-
-    }
-} while (opcao != 0 );
+//     if (opcao == 1)
+//     {
+//         Console.Write($"Nome: ");
+//         string nome = Console.ReadLine();
+//         Console.Write($"Lançamento: ");
+//         int lancamento = int.Parse(Console.ReadLine()!);
+//         Console.Write("Valor: ");
+//         float valor = float.Parse(Console.ReadLine()!);
+//         Console.Write($"Gênero: ");
+//         string genero = Console.ReadLine()!;
+//     }
+//     else if (opcao == 2){
+        
+//     }
+// } while (opcao != 0 );

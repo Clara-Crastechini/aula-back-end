@@ -4,21 +4,19 @@ namespace Construtores.Classes
     {
         public string nome { get; set; }
 
-        public int idade { get; set; }
+        public int CPF { get; set; }
 
-        public string matricula { get; set; }
-
-        public Aluno(string nm, int id, string mt){
+        public Aluno(string nm, int cpf)
+        {
             nome = nm;
-            idade = id;
-            matricula = mt;
+            CPF = cpf;
         }
 
-        public void ExibirDados(){
-Console.WriteLine(@$"
-        nome: {nome}
-        idade: {idade};
-        matricula: {matricula}");
+        public void ExibirDados()
+        {
+            Console.WriteLine(@$"
+            nome: {nome}
+            CPF: {CPF}");
         }
     }
-    }
+}
